@@ -2,28 +2,28 @@ import type { LaunchpadData } from "~/types";
 
 const launchpadApps: LaunchpadData[] = [
   {
-    id: "flint",
-    title: "Flint",
+    id: "Lung Care",
+    title: "Lung Care",
     img: "img/icons/launchpad/flint.png",
-    link: "https://github.com/Renovamen/flint"
+    link: "https://github.com/ParthSengar28/lung-care"
   },
   {
-    id: "oh-my-cv",
-    title: "Oh, My CV!",
+    id: "AI Resume Analyzer",
+    title: "AI Resume Analyzer",
     img: "https://ohmycv.app/pwa-512x512.png",
-    link: "https://ohmycv.app"
+    link: "https://resume-analyzer-u6rkadhocdmaamsqd99xba.streamlit.app/"
   },
   {
-    id: "oh-vue-icons",
-    title: "Oh, Vue Icons!",
+    id: "AI Chatbot",
+    title: "AI Chatbot",
     img: "img/icons/launchpad/oh-vue-icons.png",
-    link: "https://oh-vue-icons.js.org"
+    link: "https://github.com/ParthSengar28/AI-Chatbot-using-Groq"
   },
   {
-    id: "gungnir",
-    title: "Gungnir",
+    id: "Digital Marketing Website",
+    title: "Digital Marketing Website",
     img: "img/icons/launchpad/gungnir.png",
-    link: "https://vuepress-theme-gungnir.vercel.app/"
+    link: "https://kahaanihaus.in/"
   },
   // {
   //   id: "metallic",
@@ -32,35 +32,17 @@ const launchpadApps: LaunchpadData[] = [
   //   link: "https://github.com/Renovamen/metallic"
   // },
   {
-    id: "what-if",
-    title: "My Notebook",
+    id: "Spam Mail Detector",
+    title: "Spam Mail Detector",
     img: "img/icons/launchpad/notebook.png",
-    link: "https://note.zxh.io"
-  },
-  {
-    id: "cube",
-    title: "Cube Solver",
-    img: "img/icons/launchpad/cube.png",
-    link: "https://cube.zxh.io/"
-  },
-  {
-    id: "resume",
-    title: "Résumé",
-    img: "img/icons/launchpad/resume.png",
-    link: "https://resume.zxh.io/"
-  },
-  {
-    id: "zelda",
-    title: "Webpage for Zelda",
-    img: "img/icons/launchpad/zelda.png",
-    link: "https://zelda.zxh.io/"
-  },
-  {
-    id: "fishmail",
-    title: "Fishmail",
-    img: "img/icons/launchpad/fishmail.png",
-    link: "https://fishmail.vercel.app/"
+    link: "https://spam-email-detection-uctzxjslqym2v8kmanchnu.streamlit.app/"
   }
+  //{
+  //id: "cube",
+  //title: "Cube Solver",
+  //img: "img/icons/launchpad/cube.png",
+  //link: "https://cube.zxh.io/"
+  //},
 ];
 
 export default launchpadApps;

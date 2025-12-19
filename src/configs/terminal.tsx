@@ -13,8 +13,12 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Hi, this is Parth Sengar a final-year B.Tech Computer Science student with a
+              deep interest in Artificial Intelligence, Machine Learning, Data Science and
+              full-stack development. Experienced in building LLM-integrated applications,
+              deep learning models, REST APIs, real-time systems, and modern frontend
+              frameworks. My goal is to buildimpactful tech products and continuously grow
+              as a software engineer.
             </div>
           </div>
         )
@@ -42,22 +46,22 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:sengarparth01@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                sengarparth01@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/ParthSengar28"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
+                @ParthSengar28
               </a>
             </li>
             <li>
@@ -74,33 +78,11 @@ const terminal: TerminalData[] = [
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/parth-sengar-314621245/"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
-              </a>
-            </li>
-            <li>
-              Personal Website:{" "}
-              <a
-                className="text-blue-300"
-                href="https://zxh.me"
-                target="_blank"
-                rel="noreferrer"
-              >
-                https://zxh.me
-              </a>
-            </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                @西伯利亚大恶龙
+                Parth Sengar
               </a>
             </li>
           </ul>
