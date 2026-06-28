@@ -2,11 +2,9 @@
 
 ## Biography
 
-Hi, this is Parth Sengar a final-year B.Tech Computer Science student with a deep interest in Artificial Intelligence, Machine Learning,
-Data Science and full-stack development. Experienced in building LLM-integrated applications, deep learning models, REST APIs,
-real-time systems, and modern frontend frameworks. My goal is to buildimpactful tech products and continuously grow as a software engineer.
-
-I'm also learning web development and building machine learning software and systems.
+Hi, this is Parth Sengar a B.Tech Graduate in Computer Science specializing in AI/ML. Proven track record of developing and deploying LLM integrated applications and advanced deep learning models. Combines strong analytical problem solving with practical
+experience gained from AI research internships to deliver scalable, data-driven solutions. Proficient in Python and
+the modern ML stack. My goal is to buildimpactful tech products and continuously grow as a software engineer.
 
 ## Contact
 
