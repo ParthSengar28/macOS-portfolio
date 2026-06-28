@@ -18,4 +18,4 @@ Contact me by:
 
 ## Resume
 
-- Normal version: [Click here to Open!](https://drive.google.com/file/d/1qABymnCZMZCDLch97YOn230_cE0K-PFe/view?usp=sharing)
+- Normal version: [Click here to Open!](https://drive.google.com/file/d/18ZkottU3l7i_IgA_iNVnYxi7VvIVaJgE/view?usp=sharing)
